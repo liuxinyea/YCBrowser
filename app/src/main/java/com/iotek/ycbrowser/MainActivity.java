@@ -1359,8 +1359,6 @@ public class MainActivity extends FragmentActivity implements OnClickListener,
 	}
 
 	public void shoeWebView(int showIndex) {
-		Log.d("activty显示", list_picture.size() + "");
-		Log.d("activity", showIndex + "");
 		// 除了被点击的网页之外的都设置为不可见，被点击的为可见
 		for (int i = 0; i < web_frameLayout.getChildCount(); i++) {
 			if (i == showIndex) {
@@ -1397,21 +1395,14 @@ public class MainActivity extends FragmentActivity implements OnClickListener,
 
 	public void addWebView() {// 每次添加把最新添加的设置为可见，更改当前网页的标志
 		mWebView = new MyWebView(this);
-		mRefreshLayout = mWebView.getSwipeRefreshLayout();
 		webView = mWebView.getWebView();
 		mRefreshLayout = mWebView.getSwipeRefreshLayout();
 		initWebView();
+		//因为容器是framelayout,所以新添加的view会覆盖在最上层
 		web_frameLayout.addView(mWebView);
-		for (int i = 0; i < web_frameLayout.getChildCount(); i++) {
-			web_frameLayout.getChildAt(i).setVisibility(View.GONE);
-			if (i == web_frameLayout.getChildCount() - 1) {
-				web_frameLayout.getChildAt(i).setVisibility(View.VISIBLE);
-			}
-		}
 		int num = web_frameLayout.getChildCount();
 		currentWeb = web_frameLayout.getChildCount() - 1;
 		tv_multiwindow.setText(num + "");
-		Log.d("增加", list_picture.size() + "");
 	}
 
 	public void deleteCurrentBitmap() {
