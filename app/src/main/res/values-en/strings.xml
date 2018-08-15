@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YCBrowser</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="function_bookmark_history">Bookmarks/History</string>
+    <string name="function_download">Download Record</string>
+    <string name="function_share">Share</string>
+    <string name="function_setup">Settings</string>
+    <string name="function_add_bookmark">Add Bookmark</string>
+    <string name="function_no_picture">NoGraph</string>
+    <string name="function_has_picture">LoadGraph</string>
+    <string name="function_night">NightMode</string>
+    <string name="function_day">DayMode</string>
+    <string name="setting_full_screen">FullScreen Mode</string>
+    <string name="function_refresh">Refrash</string>
+    <string name="function_weblink">Recommended Website</string>
+    <string name="function_tool">ToolBox</string>
+    <string name="function_page_search">Page search</string>
+    <string name="function_exit">Quit</string>
+    <string name="start_info">Has reached the home page</string>
+    <string name="end_info">Has reached the last page</string>
+    <string name="page_keywords">Search keywords cannot be empty</string>
+    <string name="title_activity_web_setting">WebSettingActivity</string>
+    <string name="setting_basic">Basic setting</string>
+    <string name="setting_basic_brightness">Screen brightness</string>
+    <string name="setting_basic_home">Home settings</string>
+    <string name="setting_basic_textsize">Font size</string>
+    <string name="setting_perfect">Web page optimization</string>
+    <string name="setting_perfect_ad">Interception advertising</string>
+    <string name="setting_perfect_pic">No graph model</string>
+    <string name="setting_download">Download Manager</string>
+    <string name="setting_download_location">Download location settings</string>
+    <string name="setting_download_list">Download list</string>
+    <string name="setting_senior">Advanced options</string>
+    <string name="setting_senior_enable_javascript">Enable JavaScript</string>
+    <string name="setting_senior_remeber_psd">Remember form</string>
+    <string name="setting_senior_clean_memory">Data dump</string>
+    <string name="setting_recover">Reset default settings</string>
+    <string name="setting_title">Browser settings</string>
+    <string name="share_title">Share</string>
+    <string name="share_weixin_firend">WeChat Friends</string>
+    <string name="share_weixin_firends_circle">WeChat Moments</string>
+    <string name="share_qq_friend">QQ Firiends</string>
+    <string name="share_weibo">Micro-blog</string>
+    <string name="share_message">Message</string>
+    <string name="share_copy_url">Copy link</string>
+    <string name="share_cancel">Cancel"</string>
+    <string name="textsize_title">font size</string>
+    <string name="textsize_small">trumpet</string>
+    <string name="textsize_nomal">normal</string>
+    <string name="textsize_big">Tuba</string>
+    <string name="textsize_super_big">extra-large size</string>
+    <string name="bah_tv_title_text">Bookmark/History</string>
+    <string name="bookmark_syncing_tv_text">Syncing</string>
+    <string name="bookmark_select_tv_text">Select all</string>
+    <string name="bookmark_select_tv_text2">Deselect all</string>
+    <string name="bookmark_edit_tv_text">Edit</string>
+    <string name="bookmark_tv_delete_text">Delete</string>
+    <string name="bookmark_edit_title">Edit bookmark</string>
+    <string name="bookmark_add_title">Add bookmark</string>
+    <string name="bookmark_edit_tv_name_text">Title</string>
+    <string name="bookmark_edit_tv_url_text">URL</string>
+    <string name="bookmark_name_hint">Please enter the title for the bookmark</string>
+    <string name="bookmark_url_hint">Please enter the URL for the bookmark</string>
+    <string name="history_empty_tv_text">Empty</string>
+    <string name="downloading">Downloading</string>
+    <string name="done">Downloaded</string>
+    <string name="select_location_cancel">Cancel</string>
+    <string name="select_location_commit">Commit</string>
+    <string name="net_ok">Network has been connected！</string>
+    <string name="net_dismiss">Network connection error! Please make sure your system is connected to the Internet. </string>
+    <string name="input_keywords_info">Enter search keywords</string>
+    <string name="clear_data_title">Browser data clear</string>
+    <string name="clear_data_cookie">Clear Cookie</string>
+    <string name="clear_data_cache">Clear Cache</string>
+    <string name="clear_data_pwd">Clear form</string>
+    <string name="clear_data_delete">Delete</string>
+    <string name="default_browser_title">Default home page</string>
+    <string name="default_browser_baidu">Baidu</string>
+    <string name="default_browser_sougou">Sogou</string>
+    <string name="default_browser_taobao">TaoBao</string>
+    <string name="default_browser_youku">Youku</string>
+    <string name="default_browser_xiecheng">Ctrip</string>
+    <string name="default_browser_tianmao">Tmall</string>
+    <string name="default_browser_tengxun">Tencent</string>
+    <string name="default_browser_souhu">Sohu</string>
+    <string name="default_browser_58">58.com</string>
+    <string name="weblink_title">Weblink</string>
+    <string name="weblink_ganji">Ganjicom</string>
+    <string name="weblink_wangyi">NetEase</string>
+    <string name="weblink_renren">Renren</string>
+    <string name="weblink_tianya">Tianya</string>
+    <string name="weblink_fenghuang">Phoenix</string>
+    <string name="weblink_xinlang">Sina</string>
+    <string name="back_tip">Press the return key to exit</string>
+    <string name="loading_info">Loading...</string>
+    <string name="dialog_delete">Confirm delete data?</string>
+    <string name="dialog_ok">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_null">No seleted</string>
+    <string name="dialog_delete_success">Data clear success</string>
+    <string name="dialog_init">Confirm the default settings?</string>
+    <string name="showImage">View picture</string>
+    <string name="saveImage">Save picture</string>
+    <string name="shareImage">Share picture</string>
+    <string name="add_bookmark_wait_toast">Page loading, please add a bookmark later!</string>
+    <string name="add_bookmark_update_toast">The site has been collected, bookmarks have been updated!</string>
+    <string name="add_bookmark_toast">Bookmark has been added!</string>
+    <string name="update_bookmark_toast">Bookmark has been updated!</string>
+    <string name="tab_bookmark">Bookmark</string>
+    <string name="tab_history">History</string>
+    <string name="empty_dialog_title">Clear tips</string>
+    <string name="empty_dialog_message">Do you want to clear the entire history?</string>
+    <string name="empty_dialog_negative">Cancel</string>
+    <string name="empty_dialog_neutral">Empty</string>
+    <string name="delete_nochecked_toast">Please select the bookmark you want to delete!</string>
+    <string name="delete_dialog_title">Delete tips</string>
+    <string name="delete_dialog_message1">Are you sure you want to delete the selected </string>
+    <string name="delete_dialog_message2"> bookmarks?</string>
+    <string name="delete_dialog_negative">Cancel</string>
+    <string name="delete_dialog_neutral">Delete</string>
+    <string name="search_url_none">Please enter the search URL</string>
+    <string name="search_url_error">Search site format is wrong</string>
+    <string name="manage_download">Download Management</string>
+    <string name="none_download_item">No record</string>
+    <string name="loaded_tip">Has been downloaded in the complete list</string>
+    <string name="loading_tip">Already in the download list</string>
+    <string name="history_group_title_today">Today</string>
+    <string name="history_group_title_yesterday">Yesterday</string>
+    <string name="history_group_title_last">Last</string>
+    <string name="tool_title">ToolBox</string>
+    <string name="tool_copy_link">Copy Link</string>
+    <string name="tool_saoyisao">Scan</string>
+    <string name="copy_tip">The page link has been copied to the clipboard</string>
+
+    <string-array name="adBlockUrl">
+        <item>ubmcmm.baidustatic.com</item>
+        <item>cpro2.baidustatic.com</item>
+        <item>cpro.baidustatic.com</item>
+        <item>s.lianmeng.360.cn</item>
+        <item>nsclick.baidu.com</item>
+        <item>pos.baidu.com</item>
+        <item>cbjs.baidu.com</item>
+        <item>cpro.baidu.com</item>
+        <item>images.sohu.com/cs/jsfile/js/c.js</item>
+        <item>union.sogou.com/</item>
+        <item>sogou.com/</item>
+        <item>a.baidu.com</item>
+        <item>c.baidu.com</item>
+        <item>adx</item>
+        <item>http://www.bxwx.org/ads/</item>
+        <item>http://cpro.baidu.com/cpro/ui/</item>
+        <item>http://pic.woniu666.com/</item>
+    </string-array>
+
+</resources>

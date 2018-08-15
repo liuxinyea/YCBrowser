@@ -1,0 +1,455 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearlayout_web_setting"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_grey"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@android:color/white"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/setting_back"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="@drawable/setting_back"
+            android:onClick="settingClickAction" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:text="@string/setting_title"
+            android:textColor="@color/grey"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/light_grey"
+                android:gravity="center_vertical"
+                android:paddingLeft="15dp"
+                android:text="@string/setting_basic"
+                android:textColor="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_basic_home"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_basic_home"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <TextView
+                    android:id="@+id/setting_web_home"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:text="demo"
+                    android:textColor="@color/grey" />
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/setting_expand" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/light_grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_basic_textsize"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_basic_textsize"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <TextView
+                    android:id="@+id/setting_text_size"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:text="demo"
+                    android:textColor="@color/grey" />
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/setting_expand" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/light_grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_basic_brightness"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_basic_brightness"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <SeekBar
+                    android:id="@+id/setting_basic_brightness_sb"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/light_grey"
+                android:gravity="center_vertical"
+                android:paddingLeft="15dp"
+                android:text="@string/setting_perfect"
+                android:textColor="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_perfect_ad"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_perfect_ad"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <ImageView
+                    android:id="@+id/iamge_setting_ad"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/setting_on" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/light_grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_perfect_pic"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_perfect_pic"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <ImageView
+                    android:id="@+id/image_setting_pic"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/setting_on" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/light_grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_perfect_full_screen"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_full_screen"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <ImageView
+                    android:id="@+id/image_setting_full_screen"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/setting_on" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/light_grey"
+                android:gravity="center_vertical"
+                android:paddingLeft="15dp"
+                android:text="@string/setting_download"
+                android:textColor="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_download_location"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_download_location"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <TextView
+                    android:id="@+id/setting_location"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:singleLine="true"
+                    android:textColor="@color/grey" />
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/setting_expand" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/light_grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_download_list"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_download_list"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/setting_expand" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/light_grey"
+                android:gravity="center_vertical"
+                android:paddingLeft="15dp"
+                android:text="@string/setting_senior"
+                android:textColor="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_senior_javascript"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_senior_enable_javascript"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <ImageView
+                    android:id="@+id/iamge_setting_javascript"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/setting_on" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/light_grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_senior_form"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_senior_remeber_psd"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <ImageView
+                    android:id="@+id/iamge_setting_form"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/setting_on" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/light_grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_senior_cleandata"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_senior_clean_memory"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/setting_expand" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/light_grey"
+                android:gravity="center_vertical"
+                android:paddingLeft="15dp"
+                android:text="@string/setting_recover"
+                android:textColor="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/setting_recover"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:onClick="settingClickAction"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dp"
+                    android:text="@string/setting_recover"
+                    android:textColor="@android:color/primary_text_light" />
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/setting_expand" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@color/light_grey" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/weblink_title" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_blue_bright" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <TableRow>
+
+            <com.iotek.view.ImageBtn
+                android:id="@+id/weblink_wangyi"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_selector" />
+
+            <com.iotek.view.ImageBtn
+                android:id="@+id/weblink_ganji"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_selector" />
+
+            <com.iotek.view.ImageBtn
+                android:id="@+id/weblink_tengxun"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_selector" />
+
+            <com.iotek.view.ImageBtn
+                android:id="@+id/weblink_renren"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_selector" />
+        </TableRow>
+
+        <TableRow>
+
+            <com.iotek.view.ImageBtn
+                android:id="@+id/weblink_souhu"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_selector" />
+
+            <com.iotek.view.ImageBtn
+                android:id="@+id/weblink_tianya"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_selector" />
+
+            <com.iotek.view.ImageBtn
+                android:id="@+id/weblink_fenghuang"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_selector" />
+
+            <com.iotek.view.ImageBtn
+                android:id="@+id/weblink_taobao"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_selector" />
+        </TableRow>
+
+        <TableRow>
+
+            <com.iotek.view.ImageBtn
+                android:id="@+id/weblink_baidu"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_selector" />
+
+            <com.iotek.view.ImageBtn
+                android:id="@+id/weblink_xinlang"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_selector" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </TableRow>
+    </TableLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5px"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_blue_bright" />
+
+    <Button
+        android:id="@+id/weblink_cancle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/share_cancel"
+        android:textSize="15sp" />
+
+</LinearLayout>

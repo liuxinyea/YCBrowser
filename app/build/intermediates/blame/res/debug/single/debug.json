@@ -1,0 +1,814 @@
+[
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_history.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\list_item_history.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_bottom_in.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_googleplus.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_web_suggest.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\icon_web_suggest.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\raw_day.css.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\raw\\day.css"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_foursquare.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_off.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\setting_off.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_empty.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\icon_empty.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_top_out.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_icon_renren.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_icon_renren.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_fine.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\icon_fine.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_web_home.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\web_home.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_dropbox.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_wechat.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_usercenter_menu_no_pic.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\usercenter_menu_no_pic.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_setting_default_browser_auto.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\setting_default_browser_auto.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_menu_text_copy.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\icon_menu_text_copy.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_back.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\search_back.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_bookmark.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\list_item_bookmark.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_logo.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_btn_close_panel.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_btn_close_panel.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_back_arr.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_facebook.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_weblink.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\popupwindow_weblink.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zeus_ic_find_previous_holo_dark.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-mdpi\\zeus_ic_find_previous_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share_btn_qq.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\share_btn_qq.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_setting_expand.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\setting_expand.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_brief_btn_collect_selected_empty.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\video_brief_btn_collect_selected_empty.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_listview_downloading.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\item_listview_downloading.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_icon_sohu.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_icon_sohu.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shadow.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\shadow.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bookmark_pc_plat_icon.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\bookmark_pc_plat_icon.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_web_foot.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\icon_web_foot.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_linkedin.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\raw_realm_properties.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_page_search.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\popupwindow_page_search.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_sinaweibo.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon_frequent.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\app_icon_frequent.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_default_main_browser.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\popupwindow_default_main_browser.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_refresh.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\menu_refresh.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_action_cancel.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\action_cancel.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_novel_content_bottom_bar_chapterlist.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\novel_content_bottom_bar_chapterlist.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_capture.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_laiwangmoments.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_check_default.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reader_btn_sav.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\reader_btn_sav.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_yixin.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable_remeber_psd_checked.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable\\remeber_psd_checked.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_line.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\scan_line.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_exit.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\menu_exit.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notification_oprations_msg_icon.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\notification_oprations_msg_icon.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_game_player_game_share.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\game_player_game_share.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_evernote.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_back.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\setting_back.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_email.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_actionbar_back.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_back.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_auth_title_back.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_download.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\fragment_download.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checked.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_history.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_folder.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\icon_folder.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_game_player_game_share.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\game_player_game_share.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_qq.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_add_book_mark.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\menu_add_book_mark.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_default_browser_auto.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\setting_default_browser_auto.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_infoflow_menu_copy.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\infoflow_menu_copy.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_web.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_video_center_off_icon.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\video_center_off_icon.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_imagebtn.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\imagebtn.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ssdk_oks_classic_progressbar.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_usercenter_data_favorite.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\usercenter_data_favorite.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_none_item_layout.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\none_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_facebookmessenger.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_web_setting.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\menu\\web_setting.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_history_empty.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\list_item_history_empty.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_yixinmoments.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bookmark_add.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_bookmark_add.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toolbar_forward.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\toolbar_forward.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_fine_night.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\icon_fine_night.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_qzone.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_icon_qq.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_icon_qq.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_function_share.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\function_share.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_mywebview.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\mywebview.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share_btn_qzone.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\share_btn_qzone.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_btn_open_tab.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_btn_open_tab.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_listview_downloaddone.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\item_listview_downloaddone.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_textsize.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\popupwindow_textsize.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_refresh.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\menu_refresh.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zeus_ic_find_next_holo_light.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-mdpi\\zeus_ic_find_next_holo_light.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_function_popupwindow.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\function_popupwindow.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_kakaotalk.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_flickr.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable_remeber_psd_default.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable\\remeber_psd_default.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bubble_search_white_bg.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\bubble_search_white_bg.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_whatsapp.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_web_search.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\web_search.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_video_brief_btn_collect_selected_empty.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\video_brief_btn_collect_selected_empty.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_download_location.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_select_download_location.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_usercenter_data_favorite.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\usercenter_data_favorite.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_mainpage_icon_taobao.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_mainpage_icon_taobao.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_wechatfavorite.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_web_multiwindow.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\web_multiwindow.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bdsocialshare_weixin_friend.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\bdsocialshare_weixin_friend.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_pagesearch.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\menu_pagesearch.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zeus_ic_find_next_holo_dark.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-mdpi\\zeus_ic_find_next_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_usercenter_menu_close.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\usercenter_menu_close.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_edit_bottom_line_normal.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\edit_bottom_line_normal.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_top_in.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_activity.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_web_next.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\web_next.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_kakaostory.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_center_off_icon.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\video_center_off_icon.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_bluetooth.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_instapaper.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_btn_back.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_btn_back.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_multi_window_manager_windown_num.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\multi_window_manager_windown_num.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_pinterest.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_exit.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\menu_exit.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_usercenter_sapi_btn_back.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\usercenter_sapi_btn_back.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_mingdao.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_line.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_usercenter_data_download.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\usercenter_data_download.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_mainpage_icon_baidu.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_mainpage_icon_baidu.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_icon_ganji.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_icon_ganji.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_file.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\icon_file.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_shortmessage.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_longclicked_img.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\popupwindow_longclicked_img.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_tool.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\popupwindow_tool.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mul_webview.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_mul_webview.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_location_item_layout.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\location_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_fine.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\icon_fine.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_bottom_out.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_usercenter_menu_close.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\usercenter_menu_close.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_renren.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_web_function.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\web_function.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_usercenter_data_download.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\usercenter_data_download.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_clear_data.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_clear_data.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share_btn_copylink.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\share_btn_copylink.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookmarks_edit.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable\\bookmarks_edit.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share_btn_sinawb.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\share_btn_sinawb.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_infoflow_menu_pic_save.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\infoflow_menu_pic_save.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_icon_tianya.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_icon_tianya.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_mainpage_icon_ifeng.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_mainpage_icon_ifeng.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_pagesearch.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\menu_pagesearch.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bookmark_pc_plat_icon.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\bookmark_pc_plat_icon.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_web_image.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\web_image.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ssdk_oks_classic_platform_cell_back.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_toolbar_forward.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\toolbar_forward.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_multi_window_manager_add_new_win_pressed.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\multi_window_manager_add_new_win_pressed.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_pocket.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_web_cancel.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\web_cancel.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_barcode_black.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\scan_barcode_black.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_picture_viewer_delete_icon.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\picture_viewer_delete_icon.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_mainpage_icon_sina.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_mainpage_icon_sina.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_web_book.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\icon_web_book.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_novel_content_bottom_bar_chapterlist.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\novel_content_bottom_bar_chapterlist.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_add_book_mark.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\menu_add_book_mark.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_kaixin.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_selector.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_douban.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_twitter.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_icon_timeline.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\common_icon_timeline.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_keywords_search.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\page_keywords_search.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_tumblr.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_instagram.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_download.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toolbar_homepage.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\toolbar_homepage.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\raw_night.css.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\raw\\night.css"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_webbasic_item_layout.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\webbasic_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bookmarkandhistory.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_bookmarkandhistory.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pagesearch_back_flat.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\pagesearch_back_flat.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bookmark.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\fragment_bookmark.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_web_setting.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_web_setting.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_usercenter_menu_no_pic.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\usercenter_menu_no_pic.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_youdao.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bookmark_edit.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\activity_bookmark_edit.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_laiwang.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ssdk_oks_ptr_ptr.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_fine_night.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\icon_fine_night.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_vkontakte.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_history_group.xml.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\layout\\list_item_history_group.xml"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_tencentweibo.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_web_prev.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\web_prev.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_check_checked.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qr_code_bg.9.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\qr_code_bg.9.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_alipay.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zeus_ic_find_previous_holo_light.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-mdpi\\zeus_ic_find_previous_holo_light.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_on.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\setting_on.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_classic_wechatmoments.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_multi_window_delete_image.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-hdpi\\multi_window_delete_image.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_title_div.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "D:\\Myproject\\YCBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_icon_163.png.flat",
+        "source": "D:\\Myproject\\YCBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_icon_163.png"
+    }
+]

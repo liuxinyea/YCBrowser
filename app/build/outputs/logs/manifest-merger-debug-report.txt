@@ -1,0 +1,323 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:2:1-155:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\27cb808cc5171069f034d7b94946669d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\10ae9c936ee62273f56cc48bfc78a7d9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\096d38511beddb0e008576083712a91c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\25d2e7f53663e57602b24145ddac9829\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\167dbd3cbfa15eb2e518104b66b80c97\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\a249b51be0fbbd25594b402ab6d34a62\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:2:1-155:12
+	package
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\27cb808cc5171069f034d7b94946669d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\27cb808cc5171069f034d7b94946669d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\10ae9c936ee62273f56cc48bfc78a7d9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\10ae9c936ee62273f56cc48bfc78a7d9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\096d38511beddb0e008576083712a91c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\096d38511beddb0e008576083712a91c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\25d2e7f53663e57602b24145ddac9829\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\25d2e7f53663e57602b24145ddac9829\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\167dbd3cbfa15eb2e518104b66b80c97\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\167dbd3cbfa15eb2e518104b66b80c97\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\a249b51be0fbbd25594b402ab6d34a62\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\a249b51be0fbbd25594b402ab6d34a62\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\27cb808cc5171069f034d7b94946669d\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:11:5-12:23
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:22:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:25:22-63
+uses-permission#android.permission.CAMERA
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:26:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:28:5-60
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:28:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:29:5-70
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:29:19-67
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:32:5-68
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:32:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:33:5-74
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:33:22-71
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:39:5-84
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:39:22-81
+application
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:41:5-153:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\27cb808cc5171069f034d7b94946669d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\27cb808cc5171069f034d7b94946669d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\10ae9c936ee62273f56cc48bfc78a7d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\10ae9c936ee62273f56cc48bfc78a7d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\096d38511beddb0e008576083712a91c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\096d38511beddb0e008576083712a91c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\25d2e7f53663e57602b24145ddac9829\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\25d2e7f53663e57602b24145ddac9829\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\167dbd3cbfa15eb2e518104b66b80c97\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\167dbd3cbfa15eb2e518104b66b80c97\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\a249b51be0fbbd25594b402ab6d34a62\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\a249b51be0fbbd25594b402ab6d34a62\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:44:9-41
+	android:icon
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:43:9-45
+	android:allowBackup
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:42:9-35
+	android:theme
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:45:9-40
+activity#com.iotek.ycbrowser.Splash
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:46:9-58:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:48:13-45
+	android:launchMode
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:49:13-44
+	android:windowSoftInputMode
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:52:13-73
+	android:theme
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:51:13-47
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:47:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:53:13-57:29
+action#android.intent.action.MAIN
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:56:27-74
+activity#com.iotek.ycbrowser.WebSettingActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:59:9-63:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:61:13-63
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:60:13-66
+activity#com.iotek.ycbrowser.BookMarkActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:64:9-67:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:65:13-64
+provider#com.iotek.database.BrowserProvider
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:69:9-72:39
+	android:authorities
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:71:13-62
+	android:exported
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:70:13-62
+activity#com.iotek.ycbrowser.HistoryActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:74:9-77:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:75:13-63
+activity#com.mob.tools.MobUIShell
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:78:9-99:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:81:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:83:13-67
+	android:configChanges
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:80:13-74
+	android:theme
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:82:13-72
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:79:13-52
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tencent100371282
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:84:13-91:29
+data
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:85:17-59
+	android:scheme
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:85:23-56
+action#android.intent.action.VIEW
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:87:17-69
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:87:25-66
+category#android.intent.category.BROWSABLE
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:89:17-78
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:89:27-75
+category#android.intent.category.DEFAULT
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:90:17-76
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:90:27-73
+intent-filter#action:name:com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:94:13-98:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:95:17-92
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:95:25-89
+activity#com.iotek.ycbrowser.wxapi.WXEntryActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:100:9-105:75
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:104:13-49
+	android:exported
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:103:13-36
+	android:configChanges
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:102:13-74
+	android:theme
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:105:13-72
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:101:13-69
+activity#com.iotek.ycbrowser.BookmarkAndHistoryActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:106:9-110:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:109:13-49
+	android:label
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:108:13-45
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:107:13-74
+activity#com.iotek.ycbrowser.BookmarkEditActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:111:9-115:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:113:13-45
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:112:13-68
+activity#com.iotek.ycbrowser.BookmarkAddActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:116:9-120:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:119:13-49
+	android:label
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:118:13-45
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:117:13-67
+activity#com.iotek.ycbrowser.DownloadActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:121:9-124:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:123:13-49
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:122:13-64
+activity#com.iotek.ycbrowser.SelectDownloadLocationActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:125:9-128:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:127:13-49
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:126:13-78
+service#com.iotek.service.DownloadService
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:130:9-133:19
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:132:13-49
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:131:13-61
+activity#com.iotek.ycbrowser.CaptureActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:135:9-138:20
+	android:theme
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:137:13-66
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:136:13-63
+activity#com.iotek.ycbrowser.ClearDataActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:140:9-143:20
+	android:screenOrientation
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:142:13-49
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:141:13-65
+activity#com.iotek.ycbrowser.MainActivity
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:144:9-152:20
+	android:name
+		ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:144:19-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:http
+ADDED from D:\Myproject\YCBrowser\app\src\main\AndroidManifest.xml:145:13-151:29
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\27cb808cc5171069f034d7b94946669d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\10ae9c936ee62273f56cc48bfc78a7d9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\10ae9c936ee62273f56cc48bfc78a7d9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\096d38511beddb0e008576083712a91c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\096d38511beddb0e008576083712a91c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\25d2e7f53663e57602b24145ddac9829\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\25d2e7f53663e57602b24145ddac9829\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\167dbd3cbfa15eb2e518104b66b80c97\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\167dbd3cbfa15eb2e518104b66b80c97\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\a249b51be0fbbd25594b402ab6d34a62\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\a249b51be0fbbd25594b402ab6d34a62\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\27cb808cc5171069f034d7b94946669d\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:25.4.0] C:\Users\liuxinye\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\27cb808cc5171069f034d7b94946669d\AndroidManifest.xml:27:13-51

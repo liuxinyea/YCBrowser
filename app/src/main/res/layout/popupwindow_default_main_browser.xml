@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/default_browser_title"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5px"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_blue_bright" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/default_browser_layout_baidu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_selector"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:padding="5dp"
+                    android:text="@string/default_browser_baidu"
+                    android:textSize="13sp" />
+
+                <RadioButton
+                    android:id="@+id/default_browser_baidu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5px"
+                android:background="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/default_browser_layout_sougou"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_selector"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:padding="5dp"
+                    android:text="@string/default_browser_sougou"
+                    android:textSize="13sp" />
+
+                <RadioButton
+                    android:id="@+id/default_browser_sougou"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5px"
+                android:background="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/default_browser_layout_taobao"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_selector"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:padding="5dp"
+                    android:text="@string/default_browser_taobao"
+                    android:textSize="13sp" />
+
+                <RadioButton
+                    android:id="@+id/default_browser_taobao"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5px"
+                android:background="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/default_browser_layout_youku"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_selector"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:padding="5dp"
+                    android:text="@string/default_browser_youku"
+                    android:textSize="13sp" />
+
+                <RadioButton
+                    android:id="@+id/default_browser_youku"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5px"
+                android:background="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/default_browser_layout_xiecheng"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_selector"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:padding="5dp"
+                    android:text="@string/default_browser_xiecheng"
+                    android:textSize="13sp" />
+
+                <RadioButton
+                    android:id="@+id/default_browser_xiecheng"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5px"
+                android:background="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/default_browser_layout_souhu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_selector"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:padding="5dp"
+                    android:text="@string/default_browser_souhu"
+                    android:textSize="13sp" />
+
+                <RadioButton
+                    android:id="@+id/default_browser_souhu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5px"
+                android:background="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/default_browser_layout_tengxun"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_selector"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:padding="5dp"
+                    android:text="@string/default_browser_tengxun"
+                    android:textSize="13sp" />
+
+                <RadioButton
+                    android:id="@+id/default_browser_tengxun"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5px"
+                android:background="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/default_browser_layout_tianmao"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_selector"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:padding="5dp"
+                    android:text="@string/default_browser_tianmao"
+                    android:textSize="13sp" />
+
+                <RadioButton
+                    android:id="@+id/default_browser_tianmao"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5px"
+                android:background="@color/grey" />
+
+            <LinearLayout
+                android:id="@+id/default_browser_layout_58"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_selector"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:padding="5dp"
+                    android:text="@string/default_browser_58"
+                    android:textSize="13sp" />
+
+                <RadioButton
+                    android:id="@+id/default_browser_58"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5px"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_blue_bright" />
+
+    <Button
+        android:id="@+id/default_browser_cancle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/share_cancel"
+        android:textSize="15sp" />
+
+</LinearLayout>

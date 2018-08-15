@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/page_search_cancle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@null"
+        android:text="@string/share_cancel" />
+
+    <EditText
+        android:id="@+id/page_search_input"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1" >
+
+        <requestFocus />
+    </EditText>
+
+    <ImageView
+        android:id="@+id/page_search_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@null"
+        android:clickable="true"
+        android:src="@drawable/zeus_ic_find_previous_holo_light" />
+
+    <ImageView
+        android:id="@+id/page_search_forward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@null"
+        android:clickable="true"
+        android:src="@drawable/zeus_ic_find_next_holo_light" />
+
+</LinearLayout>

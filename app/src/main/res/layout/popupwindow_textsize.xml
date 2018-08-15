@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/textsize_title"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5px"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_blue_bright" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_selector"
+        android:gravity="right"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/textsize_layout_small"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:text="@string/textsize_small"
+                android:textSize="13sp" />
+
+            <RadioButton
+                android:id="@+id/textsize_small"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="false" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5px"
+            android:background="@color/grey" />
+
+        <LinearLayout
+            android:id="@+id/textsize_layout_nomal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_selector"
+            android:orientation="horizontal"
+            android:padding="5dp" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:text="@string/textsize_nomal"
+                android:textSize="13sp" />
+
+            <RadioButton
+                android:id="@+id/textsize_nomal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="false" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5px"
+            android:background="@color/grey" />
+
+        <LinearLayout
+            android:id="@+id/textsize_layout_big"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_selector"
+            android:orientation="horizontal"
+            android:padding="5dp" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:text="@string/textsize_big"
+                android:textSize="13sp" />
+
+            <RadioButton
+                android:id="@+id/textsize_big"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="false" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5px"
+            android:background="@color/grey" />
+
+        <LinearLayout
+            android:id="@+id/textsize_layout_super_big"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_selector"
+            android:orientation="horizontal"
+            android:padding="5dp" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:text="@string/textsize_super_big"
+                android:textSize="13sp" />
+
+            <RadioButton
+                android:id="@+id/textsize_super_big"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="false" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5px"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_blue_bright" />
+
+    <Button
+        android:id="@+id/textsize_cancle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/share_cancel"
+        android:textSize="15sp" />
+
+</LinearLayout>

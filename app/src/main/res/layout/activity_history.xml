@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/history_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="增加一条" />
+
+    <Button
+        android:id="@+id/history_delete_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="删除一条" />
+
+    <Button
+        android:id="@+id/history_delete_all"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="删除全部" />
+
+    <Button
+        android:id="@+id/history_query"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="查找全部" />
+
+</LinearLayout>

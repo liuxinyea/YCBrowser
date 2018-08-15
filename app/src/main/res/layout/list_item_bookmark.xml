@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dp"
+    android:descendantFocusability="blocksDescendants" >
+
+<!--     android:descendantFocusability="blocksDescendants" //用于防止item焦点被item中子控件的焦点枪战 -->
+
+    <CheckBox
+        android:id="@+id/bookmark_item_cb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+
+    <ImageView
+        android:id="@+id/bookmark_item_iv"
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:scaleType="centerCrop"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="5dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/bookmark_item_tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="百度"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/bookmark_item_tv_url"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:textColor="@color/grey"
+            android:text="www.baidu.com" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/bookmark_item_iv_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/bookmarks_edit" />
+
+</LinearLayout>

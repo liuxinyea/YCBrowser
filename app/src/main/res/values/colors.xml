@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bar_back">#101010</color>
+    <color name="title_back">#969696</color>
+    <color name="grey" >#B0B0BB</color>
+    <color name="light_grey">#EDEDED</color>
+    <color name="title_color">#71B4F9</color>
+</resources>

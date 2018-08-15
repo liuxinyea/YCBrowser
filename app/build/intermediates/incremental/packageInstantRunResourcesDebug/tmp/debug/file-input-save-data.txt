@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Aug 15 14:53:19 CST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Myproject\\YCBrowser\\app\\build\\intermediates\\assets\\debug
+0.path=ShareSDK.xml
+0.set=ASSET
+count=1
