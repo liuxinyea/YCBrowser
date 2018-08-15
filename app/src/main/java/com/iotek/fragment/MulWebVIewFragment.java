@@ -81,17 +81,11 @@ public class MulWebVIewFragment extends Fragment {
 	public void onStart() {
 		super.onStart();
 		initData();
-      
 		if (linearLayout != null) {
 			linearLayout.removeAllViews();
 			list_image.clear();
 		}
-
 		for (i = 0; i < list_picture.size(); i++) {
-			
-			
-			
-			Log.d("list_picture_size", String.valueOf(list_picture.size()));
 			myImage = new MyImage(getActivity());
 			myImage.setImage(list_picture.get(i));
 			myImage.setText(titles.get(i));
@@ -99,11 +93,7 @@ public class MulWebVIewFragment extends Fragment {
 				myImage.setLayoutColor();
 				myImage.setCurrentWeb(true);
 			}
-			Log.d("bitmap_index", String.valueOf(i));
 			linearLayout.addView(myImage);
-			
-			
-			
 			list_index.add(i);
 			list_image.add(myImage);
 			final int index = i;
@@ -114,8 +104,6 @@ public class MulWebVIewFragment extends Fragment {
 					linearLayout.removeViewAt(list_index.get(index));
 					((MainActivity) getActivity()).deleteWebView(list_index
 							.get(index));
-					Log.d("leftINDEX", list_index.get(index) + "");
-					Log.d("left", "sadasd");
 					/* MyImage image1=(MyImage) v; */
 					if (linearLayout.getChildCount() != 0
 					&& list_image.get(list_index.get(index)).getCurrentWeb()) {
@@ -123,18 +111,12 @@ public class MulWebVIewFragment extends Fragment {
 							currentWeb -= 1;
 							MyImage image = (MyImage) linearLayout
 									.getChildAt(currentWeb);
-							Log.d("网页数目1", linearLayout.getChildCount()
-									+ "");
-							Log.d("当前页1", currentWeb + "");
 							image.setLayoutColor();
 							image.setCurrentWeb(true);
 						} else {
 							/*currentWeb -= 1;*/
 							MyImage image = (MyImage) linearLayout
 									.getChildAt(currentWeb);
-							Log.d("网页数目2", linearLayout.getChildCount()
-									+ "");
-							Log.d("当前页2", currentWeb + "");
 							image.setLayoutColor();
 							image.setCurrentWeb(true);
 						}
@@ -142,8 +124,6 @@ public class MulWebVIewFragment extends Fragment {
 						     //如果小于当前页处理，否则不处理
 						if(list_index.get(index)<currentWeb){
 							currentWeb -= 1;
-							Log.d("网页数目3", linearLayout.getChildCount() + "");
-							Log.d("当前页3", currentWeb + "");
 						}
 						
 					}
@@ -169,14 +149,11 @@ public class MulWebVIewFragment extends Fragment {
 					activity.show();
 				}
 			});
-
 			myImage.setOnTouchListener(new OnTouchListener() {
 				@Override
 				public boolean onTouch(View v, MotionEvent event) {
-
 					switch (event.getAction()) {
 					case MotionEvent.ACTION_DOWN:
-						Log.d("按下时X", (int) event.getX()+"");
 	                    startX = (int) event.getX();
 	                    lastX = (int) event.getX();// 获取触摸事件触摸位置的原始X坐标     
 	                    
@@ -186,10 +163,9 @@ public class MulWebVIewFragment extends Fragment {
 	                    startT=v.getTop();
 						break;
 					case MotionEvent.ACTION_MOVE:
-						 int dx = (int) event.getX() - lastX;     
-	                	  Log.d("移动中X", (int) event.getX()+"");
-	                     int l = v.getLeft() + dx;     
-	                     int b = v.getBottom();     
+						 int dx = (int) event.getX() - lastX;
+	                      int l = v.getLeft() + dx;
+	                      int b = v.getBottom();
 	                      int r = v.getRight() + dx;     
 	                      int t = v.getTop();   
 	                      v.layout(l, t, r, b);     
@@ -199,11 +175,7 @@ public class MulWebVIewFragment extends Fragment {
 					case MotionEvent.ACTION_UP:
 						endX = (int) event.getX();
 						int scrollSize = 100;
-						Log.d("windowIndex", Math.abs((int) event.getX()-startX)+"");
-
 						if (Math.abs((int) event.getX()-startX)>=scrollSize) {
-							Log.d("windowIndex",
-									String.valueOf(list_index.get(index)));
 							linearLayout.removeView(v);
 							((MainActivity) getActivity())
 									.deleteWebView(list_index.get(index));
@@ -215,18 +187,12 @@ public class MulWebVIewFragment extends Fragment {
 									currentWeb -= 1;
 									MyImage image = (MyImage) linearLayout
 											.getChildAt(currentWeb);
-									Log.d("网页数目1", linearLayout.getChildCount()
-											+ "");
-									Log.d("当前页1", currentWeb + "");
 									image.setLayoutColor();
 									image.setCurrentWeb(true);
 								} else {
 									/*currentWeb -= 1;*/
 									MyImage image = (MyImage) linearLayout
 											.getChildAt(currentWeb);
-									Log.d("网页数目2", linearLayout.getChildCount()
-											+ "");
-									Log.d("当前页2", currentWeb + "");
 									image.setLayoutColor();
 									image.setCurrentWeb(true);
 								}
@@ -234,10 +200,7 @@ public class MulWebVIewFragment extends Fragment {
 								     //如果小于当前页处理，否则不处理
 								if(list_index.get(index)<currentWeb){
 									currentWeb -= 1;
-									Log.d("网页数目3", linearLayout.getChildCount() + "");
-									Log.d("当前页3", currentWeb + "");
 								}
-								
 							}
 							for (int j = 0; j < list_index.size(); j++) {
 								if (j > index) {
@@ -248,11 +211,9 @@ public class MulWebVIewFragment extends Fragment {
 	                    	v.layout(startL, startT, startR, startB); 
 	                    }else{
 	                    	((MainActivity) getActivity()).shoeWebView(list_index.get(index));
-	    					Log.d("faragment",list_index.get(index)+"");
 	    					 layout_window.setVisibility(View.GONE);
 	    					 linearLayout.removeView(v);
 	    					MainActivity activity=(MainActivity) getActivity();
-	    					Log.d(" 点击显示", list_picture.size()+"");
 	    					activity.show();
 	                    }
 	                	break;
