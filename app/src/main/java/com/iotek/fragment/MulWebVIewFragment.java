@@ -188,7 +188,6 @@ public class MulWebVIewFragment extends Fragment {
 					case MotionEvent.ACTION_MOVE:
                         float dx=event.getRawX()-lastX;
                         int dy= (int) (event.getRawY()-startY);
-						Log.e("scrollerDy",dy+"");
 						if(v.getParent().getParent()!=null&&Math.abs(dy)<=TouchSlop){//在适当的时机屏蔽父容器的触摸事件
 							v.getParent().getParent().requestDisallowInterceptTouchEvent(true);
 						}else{
@@ -202,7 +201,6 @@ public class MulWebVIewFragment extends Fragment {
 						int scrollSize = 150;
 						 ObjectAnimator translationX;
 						if (Math.abs((int) event.getRawX()-startX)>=scrollSize) {
-							Log.e("TouchUpRemove",(int) event.getRawX()-startX+"");
 							if(event.getRawX()-startX>0){
 								translationX = ObjectAnimator.ofFloat(v, "translationX", event.getRawX()-startX, event.getRawX()-startX+1000);
 							}else{
@@ -249,7 +247,6 @@ public class MulWebVIewFragment extends Fragment {
 							});
 							translationX.start();
 						}else if(Math.abs((int) event.getRawX()-startX)>TouchSlop){
-							Log.e("TouchUpBack",(int) event.getRawX()-startX+"");
 							translationX = ObjectAnimator.ofFloat(v, "translationX", (int) event.getRawX()-startX,0);
                             translationX.setDuration(200);
 							translationX.addListener(new AnimatorListenerAdapter() {
@@ -263,7 +260,6 @@ public class MulWebVIewFragment extends Fragment {
 							translationX.start();
 //	                    	v.layout(startL, startT, startR, startB);
 	                    }else{
-							Log.e("TouchUpClick",(int) event.getX()-startX+"");
 	                    	((MainActivity) getActivity()).shoeWebView(list_index.get(index));
 	    					 layout_window.setVisibility(View.GONE);
 	    					 linearLayout.removeView(v);
@@ -272,7 +268,6 @@ public class MulWebVIewFragment extends Fragment {
 	                    }
 	                	break;
 						case MotionEvent.ACTION_CANCEL:
-							Log.e("TouchUpBack",(int) event.getRawX()-startX+"");
 							translationX = ObjectAnimator.ofFloat(v, "translationX", (int) event.getRawX()-startX,0);
 							translationX.setDuration(200);
 							translationX.addListener(new AnimatorListenerAdapter() {
