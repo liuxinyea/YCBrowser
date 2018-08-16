@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd173597-630a-46fa-9ced-5af2a19bc6f5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/iotek/view/MyScrollView.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/classAnalysis.bin" />
@@ -22,77 +21,164 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$3.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$4.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$5.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$6.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment$7.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/fragment/MulWebVIewFragment.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$1$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$10.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$11.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$12.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$13.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$13.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$14.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$14.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5$3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5$4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5$5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$6$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$6$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$6$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$6$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$6.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$7.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$8.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$9.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$NetworkChangeReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$NetworkChangeReceiver.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$TimeCount.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity$TimeCount.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/iotek/ycbrowser/MainActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$3.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$4.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$5.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$6.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment$7.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/fragment/MulWebVIewFragment.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$1$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$10.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$11.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$12.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$13.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$13.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$14.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$14.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5$3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5$4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5$5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$6$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$6$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$6$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$6$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$6.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$7.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$8.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$9.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$NetworkChangeReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$NetworkChangeReceiver.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$TimeCount.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity$TimeCount.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/iotek/ycbrowser/MainActivity.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$1.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$2.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$3.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$3.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$4.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$4.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$5.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$5.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$6.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$6.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$7.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment$7.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78/com/iotek/fragment/MulWebVIewFragment.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$1$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$1$1.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$1.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$10.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$10.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$11.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$11.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$12.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$12.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$13.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$13.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$14.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$14.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$2.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$3.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$3.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$4.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$4.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5$1.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5$2.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5$3.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5$3.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5$4.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5$4.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5$5.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5$5.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$5.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$6$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$6$1.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$6$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$6$2.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$6.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$6.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$7.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$7.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$8.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$8.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$9.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$9.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$NetworkChangeReceiver.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$NetworkChangeReceiver.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$TimeCount.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity$TimeCount.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/80/com/iotek/ycbrowser/MainActivity.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$3.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$4.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$5.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$6.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment$7.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/fragment/MulWebVIewFragment.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$1$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$10.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$11.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$12.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$13.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$13.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$14.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$14.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5$3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5$4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5$5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$6$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$6$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$6$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$6$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$6.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$7.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$8.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$9.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$NetworkChangeReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$NetworkChangeReceiver.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$TimeCount.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity$TimeCount.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/iotek/ycbrowser/MainActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$3.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$4.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$5.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$6.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment$7.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/iotek/fragment/MulWebVIewFragment.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$1$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$10.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$11.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$12.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$13.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$13.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$14.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$14.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5$3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5$4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5$5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$6$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$6$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$6$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$6$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$6.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$7.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$8.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$9.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$NetworkChangeReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$NetworkChangeReceiver.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$TimeCount.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity$TimeCount.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/iotek/ycbrowser/MainActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/iotek/fragment/MulWebVIewFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/iotek/fragment/MulWebVIewFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/iotek/ycbrowser/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/iotek/ycbrowser/MainActivity.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -118,16 +204,16 @@
       <file leaf-file-name="MulWebVIewFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iotek/fragment/MulWebVIewFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-550">
-              <caret line="58" column="7" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+            <state relative-caret-position="550">
+              <caret line="327" column="0" lean-forward="false" selection-start-line="327" selection-start-column="0" selection-end-line="327" selection-end-column="0" />
               <folding>
                 <element signature="e#1222#1231#0" expanded="true" />
                 <element signature="e#3027#4612#0" expanded="true" />
                 <element signature="e#3302#4572#0" expanded="true" />
                 <element signature="e#4571#4572#0" expanded="true" />
                 <element signature="e#4611#4612#0" expanded="true" />
-                <element signature="e#6910#8144#0" expanded="true" />
-                <element signature="e#8143#8144#0" expanded="true" />
+                <element signature="e#6814#8048#0" expanded="true" />
+                <element signature="e#8047#8048#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,9 +249,25 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_mul_webview.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding>
                 <element signature="e#1082#2412#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="68" column="37" lean-forward="false" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+              <folding>
+                <element signature="e#417#2342#0" expanded="false" />
+                <element signature="e#2835#5676#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -2230,14 +2332,14 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/iotek/ycbrowser/Splash.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/iotek/ycbrowser/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_mul_webview.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/iotek/view/MyScrollView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/iotek/fragment/MulWebVIewFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iotek/ycbrowser/MainActivity.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-291" />
     <option name="y" value="171" />
     <option name="width" value="1938" />
@@ -2278,6 +2380,13 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="iotek" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCBrowser" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="iotek" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="ycbrowser" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2471,17 +2580,24 @@
       <option name="presentableId" value="Default" />
       <updated>1534303540153</updated>
     </task>
+    <task id="LOCAL-00001" summary="remove log">
+      <created>1534385696302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534385696302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20750293" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20750293" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21805392" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -2494,7 +2610,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31418523" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26260257" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25375536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2551,6 +2667,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove log" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove log" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="5" />
@@ -2563,22 +2683,77 @@
         <state relative-caret-position="23804">
           <caret line="1407" column="39" lean-forward="false" selection-start-line="1407" selection-start-column="39" selection-end-line="1407" selection-end-column="39" />
           <folding>
-            <element signature="class#7224:8590" expanded="false" />
+            <element signature="e#3133#3141#0" expanded="true" />
+            <element signature="e#3587#3595#0" expanded="true" />
+            <element signature="e#3666#3674#0" expanded="true" />
+            <element signature="class#7237:8603" expanded="false" />
+            <element signature="e#7424#7530#0" expanded="true" />
+            <element signature="e#7529#7530#0" expanded="true" />
+            <element signature="e#8648#9274#0" expanded="true" />
+            <element signature="e#9273#9274#0" expanded="true" />
+            <element signature="e#11847#12030#0" expanded="true" />
+            <element signature="e#12029#12030#0" expanded="true" />
+            <element signature="e#12086#15338#0" expanded="true" />
+            <element signature="e#13251#13651#0" expanded="true" />
+            <element signature="e#13650#13651#0" expanded="true" />
+            <element signature="e#14392#14595#0" expanded="true" />
+            <element signature="e#14594#14595#0" expanded="true" />
+            <element signature="e#14708#14957#0" expanded="true" />
+            <element signature="e#14956#14957#0" expanded="true" />
+            <element signature="e#15071#15310#0" expanded="true" />
+            <element signature="e#15309#15310#0" expanded="true" />
+            <element signature="e#15337#15338#0" expanded="true" />
+            <element signature="e#16750#16793#0" expanded="true" />
+            <element signature="method#initView#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#18312#18357#0" expanded="true" />
+            <element signature="e#18650#18693#0" expanded="true" />
+            <element signature="e#20152#20210#0" expanded="true" />
+            <element signature="e#20318#20378#0" expanded="true" />
+            <element signature="e#20962#26020#0" expanded="true" />
+            <element signature="e#21853#21919#0" expanded="true" />
+            <element signature="e#23490#24884#0" expanded="true" />
+            <element signature="e#24883#24884#0" expanded="true" />
+            <element signature="e#26019#26020#0" expanded="true" />
+            <element signature="e#26473#26641#0" expanded="true" />
+            <element signature="e#26640#26641#0" expanded="true" />
+            <element signature="e#26693#27354#0" expanded="true" />
+            <element signature="e#27075#27118#0" expanded="true" />
+            <element signature="e#27353#27354#0" expanded="true" />
+            <element signature="e#27903#28047#0" expanded="true" />
+            <element signature="e#28046#28047#0" expanded="true" />
+            <element signature="e#28100#29146#0" expanded="true" />
+            <element signature="e#28541#28597#0" expanded="true" />
+            <element signature="e#28950#29006#0" expanded="true" />
+            <element signature="e#29145#29146#0" expanded="true" />
             <element signature="method#showShare#0;class#MainActivity#0" expanded="false" />
             <element signature="method#judgeIfPicture#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#30482#30521#0" expanded="true" />
+            <element signature="e#30619#30659#0" expanded="true" />
             <element signature="method#judgeISNight#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#30905#30937#0" expanded="true" />
+            <element signature="e#31032#31066#0" expanded="true" />
             <element signature="method#turnToWebSetting#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#32472#32640#0" expanded="true" />
+            <element signature="e#32639#32640#0" expanded="true" />
+            <element signature="e#32695#33638#0" expanded="true" />
+            <element signature="e#33637#33638#0" expanded="true" />
             <element signature="method#onNewIntent#0;class#MainActivity#0" expanded="false" />
             <element signature="docComment;method#turnFromWebSetting#0;class#MainActivity#0" expanded="false" />
             <element signature="method#turnFromWebSetting#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onRestart#0;class#MainActivity#0" expanded="false" />
             <element signature="class#TimeCount#0;class#MainActivity#0" expanded="false" />
             <element signature="method#closeAllWeb#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#40393#40394#0" expanded="true" />
-            <element signature="e#40417#40418#0" expanded="true" />
+            <element signature="e#40406#40407#0" expanded="true" />
+            <element signature="e#40430#40431#0" expanded="true" />
             <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#41001#41404#0" expanded="true" />
+            <element signature="e#41403#41404#0" expanded="true" />
+            <element signature="e#41452#41630#0" expanded="true" />
+            <element signature="e#41629#41630#0" expanded="true" />
             <element signature="method#onDestroy#0;class#MainActivity#0" expanded="false" />
             <element signature="class#NetworkChangeReceiver#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#43629#43670#0" expanded="true" />
+            <element signature="e#43732#43778#0" expanded="true" />
             <element signature="method#startDownloadActivity#0;class#MainActivity#0" expanded="false" />
             <element signature="method#IsUrl#0;class#MainActivity#0" expanded="false" />
             <element signature="method#match#0;class#MainActivity#0" expanded="false" />
@@ -2596,8 +2771,8 @@
             <element signature="e#3302#4572#0" expanded="true" />
             <element signature="e#4571#4572#0" expanded="true" />
             <element signature="e#4611#4612#0" expanded="true" />
-            <element signature="e#6910#8144#0" expanded="true" />
-            <element signature="e#8143#8144#0" expanded="true" />
+            <element signature="e#6814#8048#0" expanded="true" />
+            <element signature="e#8047#8048#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2645,7 +2820,7 @@
         <state relative-caret-position="330">
           <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2674,9 +2849,9 @@
         <state relative-caret-position="110">
           <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#213#214#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2707,6 +2882,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1188">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2714,6 +2890,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-304">
           <caret line="227" column="40" lean-forward="false" selection-start-line="227" selection-start-column="40" selection-end-line="227" selection-end-column="40" />
+          <folding>
+            <element signature="e#6913#6941#0" expanded="false" />
+            <element signature="e#7016#7153#0" expanded="false" />
+            <element signature="e#7152#7153#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2790,6 +2971,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1164">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2797,6 +2979,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2839,20 +3022,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="68" column="24" lean-forward="false" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-          <folding>
-            <element signature="e#417#2342#0" expanded="false" />
-            <element signature="e#2835#5676#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://D:/Android SDK/platforms/android-25/android.jar!/java/util/List.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -2881,34 +3050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iotek/ycbrowser/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1407" column="39" lean-forward="false" selection-start-line="1407" selection-start-column="39" selection-end-line="1407" selection-end-column="39" />
-          <folding>
-            <element signature="class#7224:8590" expanded="false" />
-            <element signature="method#showShare#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#judgeIfPicture#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#judgeISNight#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#turnToWebSetting#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#onNewIntent#0;class#MainActivity#0" expanded="false" />
-            <element signature="docComment;method#turnFromWebSetting#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#turnFromWebSetting#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#onRestart#0;class#MainActivity#0" expanded="false" />
-            <element signature="class#TimeCount#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#closeAllWeb#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#40393#40394#0" expanded="true" />
-            <element signature="e#40417#40418#0" expanded="true" />
-            <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#onDestroy#0;class#MainActivity#0" expanded="false" />
-            <element signature="class#NetworkChangeReceiver#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#startDownloadActivity#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#IsUrl#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#match#0;class#MainActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Android SDK/platforms/android-25/android.jar!/android/view/ViewParent.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
@@ -2928,22 +3069,11 @@
         <state relative-caret-position="308">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#213#214#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/web_image.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iotek/ycbrowser/Splash.java">
@@ -2951,18 +3081,43 @@
         <state relative-caret-position="308">
           <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="68" column="37" lean-forward="false" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+          <folding>
+            <element signature="e#417#2342#0" expanded="false" />
+            <element signature="e#2835#5676#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_mul_webview.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding>
             <element signature="e#1082#2412#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/web_image.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -2980,18 +3135,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iotek/ycbrowser/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="505" column="46" lean-forward="false" selection-start-line="505" selection-start-column="40" selection-end-line="505" selection-end-column="46" />
+          <folding>
+            <element signature="e#3133#3141#0" expanded="true" />
+            <element signature="e#3587#3595#0" expanded="true" />
+            <element signature="e#3666#3674#0" expanded="true" />
+            <element signature="class#7237:8603" expanded="false" />
+            <element signature="e#7424#7530#0" expanded="true" />
+            <element signature="e#7529#7530#0" expanded="true" />
+            <element signature="e#8648#9274#0" expanded="true" />
+            <element signature="e#9273#9274#0" expanded="true" />
+            <element signature="e#11847#12030#0" expanded="true" />
+            <element signature="e#12029#12030#0" expanded="true" />
+            <element signature="e#12086#15338#0" expanded="true" />
+            <element signature="e#13251#13651#0" expanded="true" />
+            <element signature="e#13650#13651#0" expanded="true" />
+            <element signature="e#14392#14595#0" expanded="true" />
+            <element signature="e#14594#14595#0" expanded="true" />
+            <element signature="e#14708#14957#0" expanded="true" />
+            <element signature="e#14956#14957#0" expanded="true" />
+            <element signature="e#15071#15310#0" expanded="true" />
+            <element signature="e#15309#15310#0" expanded="true" />
+            <element signature="e#15337#15338#0" expanded="true" />
+            <element signature="e#16750#16793#0" expanded="true" />
+            <element signature="method#initView#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#18312#18357#0" expanded="true" />
+            <element signature="e#18650#18693#0" expanded="true" />
+            <element signature="e#20152#20210#0" expanded="true" />
+            <element signature="e#20318#20378#0" expanded="true" />
+            <element signature="e#20962#26020#0" expanded="true" />
+            <element signature="e#21853#21919#0" expanded="true" />
+            <element signature="e#23490#24884#0" expanded="true" />
+            <element signature="e#24883#24884#0" expanded="true" />
+            <element signature="e#26019#26020#0" expanded="true" />
+            <element signature="e#26473#26641#0" expanded="true" />
+            <element signature="e#26640#26641#0" expanded="true" />
+            <element signature="e#26693#27354#0" expanded="true" />
+            <element signature="e#27075#27118#0" expanded="true" />
+            <element signature="e#27353#27354#0" expanded="true" />
+            <element signature="e#27903#28047#0" expanded="true" />
+            <element signature="e#28046#28047#0" expanded="true" />
+            <element signature="e#28100#29146#0" expanded="true" />
+            <element signature="e#28541#28597#0" expanded="true" />
+            <element signature="e#28950#29006#0" expanded="true" />
+            <element signature="e#29145#29146#0" expanded="true" />
+            <element signature="method#showShare#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#judgeIfPicture#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#30482#30521#0" expanded="true" />
+            <element signature="e#30619#30659#0" expanded="true" />
+            <element signature="method#judgeISNight#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#30905#30937#0" expanded="true" />
+            <element signature="e#31032#31066#0" expanded="true" />
+            <element signature="method#turnToWebSetting#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#32472#32640#0" expanded="true" />
+            <element signature="e#32639#32640#0" expanded="true" />
+            <element signature="e#32695#33638#0" expanded="true" />
+            <element signature="e#33637#33638#0" expanded="true" />
+            <element signature="method#onNewIntent#0;class#MainActivity#0" expanded="false" />
+            <element signature="docComment;method#turnFromWebSetting#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#turnFromWebSetting#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onRestart#0;class#MainActivity#0" expanded="false" />
+            <element signature="class#TimeCount#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#closeAllWeb#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#40406#40407#0" expanded="true" />
+            <element signature="e#40430#40431#0" expanded="true" />
+            <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#41001#41404#0" expanded="true" />
+            <element signature="e#41403#41404#0" expanded="true" />
+            <element signature="e#41452#41630#0" expanded="true" />
+            <element signature="e#41629#41630#0" expanded="true" />
+            <element signature="method#onDestroy#0;class#MainActivity#0" expanded="false" />
+            <element signature="class#NetworkChangeReceiver#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#43629#43670#0" expanded="true" />
+            <element signature="e#43732#43778#0" expanded="true" />
+            <element signature="method#startDownloadActivity#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#IsUrl#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#match#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iotek/fragment/MulWebVIewFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-550">
-          <caret line="58" column="7" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+        <state relative-caret-position="550">
+          <caret line="327" column="0" lean-forward="false" selection-start-line="327" selection-start-column="0" selection-end-line="327" selection-end-column="0" />
           <folding>
             <element signature="e#1222#1231#0" expanded="true" />
             <element signature="e#3027#4612#0" expanded="true" />
             <element signature="e#3302#4572#0" expanded="true" />
             <element signature="e#4571#4572#0" expanded="true" />
             <element signature="e#4611#4612#0" expanded="true" />
-            <element signature="e#6910#8144#0" expanded="true" />
-            <element signature="e#8143#8144#0" expanded="true" />
+            <element signature="e#6814#8048#0" expanded="true" />
+            <element signature="e#8047#8048#0" expanded="true" />
           </folding>
         </state>
       </provider>

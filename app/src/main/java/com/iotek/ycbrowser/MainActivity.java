@@ -207,6 +207,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener,
 		webView.setDrawingCacheEnabled(true);
 		//浏览器设置类
 		settings = webView.getSettings();
+		//提高渲染的优先级
 		settings.setRenderPriority(RenderPriority.HIGH);
 		settings.setCacheMode(WebSettings.LOAD_DEFAULT); // 设置缓存模式
 		// 开启 DOM storage API 功能
